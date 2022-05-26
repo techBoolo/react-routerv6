@@ -1,6 +1,5 @@
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
-import Link from '@mui/material/Link';
 import { NavLink as RouterNavLink, Outlet, useSearchParams, useLocation } from 'react-router-dom';
 import { getInvoices } from '../../invoiceData';
 import Button from '@mui/material/Button';
